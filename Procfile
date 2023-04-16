@@ -1,1 +1,1 @@
-web: gunicorn littlelemon.wsgi --log-file -
+web: gunicorn littlelemon.wsgi
